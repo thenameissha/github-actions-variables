@@ -1,8 +1,5 @@
 name: Workflow Demo
 
-env:
-    ACCESS_ID: kode-kloud-123456
-
 on: 
   push
 
